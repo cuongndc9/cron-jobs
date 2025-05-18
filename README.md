@@ -13,7 +13,4 @@ $ yarn start
 
 *Need to allow non secure apps to access gmail you can do this by going to your gmail settings [here](https://myaccount.google.com/lesssecureapps).*
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🧑‍💻
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nBe a lifelong learner, not a know-it-all.\n🐯\n<!-- INSPIRATIONAL_QUOTE_END -->
