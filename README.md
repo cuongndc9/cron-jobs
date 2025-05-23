@@ -15,6 +15,6 @@ $ yarn start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🐯
+Discomfort is the currency of your dreams.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
