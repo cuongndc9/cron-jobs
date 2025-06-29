@@ -15,5 +15,5 @@ $ yarn start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
